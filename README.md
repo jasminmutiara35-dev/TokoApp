@@ -35,7 +35,7 @@ Aplikasi TokoApp merupakan aplikasi desktop berbasis Java yang dikembangkan meng
 ## Struktur Project
 
 ```text
-TokoBaruApp/
+TokoApp/
 ├── src/
 │   └── main/
 │       ├── java/
@@ -69,7 +69,7 @@ git clone https://github.com/jasminmutiara35-dev/TokoApp
 ### 2. Masuk ke Direktori Project
 
 ```bash
-cd TokoBaruApp
+cd TokoApp
 ```
 
 ### 3. Periksa Instalasi Java dan Maven
@@ -83,7 +83,7 @@ mvn -version
 
 ### 4. Buka Project
 
-Buka Apache NetBeans, kemudian pilih **File → Open Project**. Cari folder project `TokoBaruApp`.
+Buka Apache NetBeans, kemudian pilih **File → Open Project**. Cari folder project `TokoApp`.
 
 ### 5. Jalankan Aplikasi
 
@@ -93,11 +93,11 @@ Buka terminal pada direktori utama project, kemudian jalankan:
 mvn javafx:run
 ```
 
-Tunggu hingga proses build selesai. Jika berhasil, aplikasi TokoBaruApp akan terbuka.
+Tunggu hingga proses build selesai. Jika berhasil, aplikasi TokoApp akan terbuka.
 
 ## Cara Menggunakan Aplikasi
 
-1. Jalankan aplikasi TokoBaruApp.
+1. Jalankan aplikasi TokoApp.
 2. Klik tombol **Tambah Produk**.
 3. Masukkan kode produk pada kolom yang tersedia.
 4. Masukkan nama produk.
